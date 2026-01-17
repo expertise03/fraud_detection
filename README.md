@@ -66,7 +66,13 @@ To set a custom background image for the application, place your image file in t
 - The test Dataset use default-2-NewNew.xlsx
 - Backend Database used as MongoDB Shell.
 
-# Youtube Link Reference: https://www.youtube.com/watch?v=_u2XLT2ASRw
+Youtube Link Reference: https://www.youtube.com/watch?v=_u2XLT2ASRw
+
+# ARCHITECTURE DIAGRAM
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 17, 2026, 05_46_13 PM" src="https://github.com/user-attachments/assets/f1af1d10-a421-4830-a3f5-e5dae7270440" />
+
+# SCREENSHOTS OF PROJECT
 
 <img width="1918" height="963" alt="Screenshot 2026-01-17 164015" src="https://github.com/user-attachments/assets/dcb84b3b-d972-46ce-959a-054907e90a73" />
 
